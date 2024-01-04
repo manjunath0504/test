@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: PB_BASE
+    tables:
+      - name: CUST_01 
