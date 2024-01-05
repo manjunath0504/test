@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: PB_BASE
+    database: PB_BASE
+    schema: PB_SCHEMA
+    tables:
+      - name: CUST_01
+      - name: ORDER_01
